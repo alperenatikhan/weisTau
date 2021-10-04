@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import Kontakt2 from './components/Kontakt2.jsx';
 import Kontakt from './components/Kontakt.jsx';
 
 export default function App() {
